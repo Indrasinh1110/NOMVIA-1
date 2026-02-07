@@ -1,0 +1,4 @@
+enum PrivacyMode {
+  on,
+  off,
+}
